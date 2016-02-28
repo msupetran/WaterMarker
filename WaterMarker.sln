@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterMarker.Core", "WaterMarker.Core\WaterMarker.Core.csproj", "{121473C0-0506-4C15-8C5B-695BC09D93EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterMarker.Core.Tests", "WaterMarker.Core.Tests\WaterMarker.Core.Tests.csproj", "{B93FCA07-EA30-4239-8260-51FDF98EE4DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{121473C0-0506-4C15-8C5B-695BC09D93EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121473C0-0506-4C15-8C5B-695BC09D93EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121473C0-0506-4C15-8C5B-695BC09D93EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121473C0-0506-4C15-8C5B-695BC09D93EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B93FCA07-EA30-4239-8260-51FDF98EE4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93FCA07-EA30-4239-8260-51FDF98EE4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93FCA07-EA30-4239-8260-51FDF98EE4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93FCA07-EA30-4239-8260-51FDF98EE4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
